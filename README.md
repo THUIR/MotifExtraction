@@ -1,4 +1,4 @@
-# MotifExtraction(https://github.com/THUIR/MotifExtraction)
+# [MotifExtraction](https://github.com/THUIR/MotifExtraction)
 
 MotifExtraction is the implementation of motif extraction algorithm: Yiqun Liu, Ye Chen, Jinhui Tang, Jiashen Sun, Min Zhang, Shaoping Ma, Xuan Zhu. Different Users, Different Opinions: Predicting Search Satisfaction with Mouse Movement Information. SIGIR (2015)
 
