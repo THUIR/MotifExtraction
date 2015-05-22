@@ -18,6 +18,7 @@ Directory with the sample dataset.
 
 - MouseLog: all search session mouse logs used in paper
 - Satisfaction_Scores: satisfaction scores from both users and external assessors used in paper
+- motifs: top 20 motifs extracted from MouseLog. Each line represent a motif, in the form of "x1,y1;x2,y2;x3,y3;...". Lines 1 to 10 represent the top 10 motifs extracted from SAT_DATA and lines 11 to 20 represent the top 10 motifs extracted from DSAT_DATA.
 
 ## src/
 Directory with the Java code.
